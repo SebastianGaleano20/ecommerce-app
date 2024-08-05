@@ -1,1 +1,1 @@
-Proyecto incompleto, mil disculpas por no llegar con el contenido hice la app de lista de tareas. 
+Proyecto fINAL React para ARGENTINA PROGRAMA 4.0
